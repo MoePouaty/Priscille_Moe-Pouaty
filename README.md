@@ -44,10 +44,13 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - GitHub, Visual Studio Code
 
 ---
+## Projets / Réalisations
+
+-Détection de fraude sur transactions bancaires — Analyse et préparation à un modèle ML avec PostgreSQL
 
 ## Expériences professionnelles
 
-### Stage / Projet data
+### Stage
 - Structuration et enrichissement des bases de données  
 - Mise en place de pipeline ETL simple  
 - Suivi de la performance (marketing/produit/finance)  
@@ -57,7 +60,7 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - Standardisation & documentation des procédures data  
 - Participation à projets data & BI
 
-### Collecte et analyse de données
+### Stage
 - Collecte, nettoyage et préparation des données  
 - Analyse exploratoire (EDA)  
 - Extraction de données via SQL et automatisation des requêtes  
@@ -67,15 +70,7 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - Data quality & contrôle des sources de données  
 - Documentation des process data
 
-### Développement / compétences dev
-- HTML, CSS, JavaScript  
-- GitHub, Visual Studio Code  
-
 ---
-
-## Projets / Réalisations
-
--Détection de fraude sur transactions bancaires — Analyse et préparation à un modèle ML avec PostgreSQL
 
 ### Analyse de données et BI
 - Création d’un **dashboard Power BI** pour suivi des KPI financiers  
@@ -92,11 +87,10 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 
 ## Formation
 
-- **PREPA Maths-Physique** (Bac+2)  
-- **École d’ingénieur informatique** (Bac+3)  
+- **POEC Data Analyst**
 - **Master Analyse de données** (Bac+5)  
-- **POEC Data Analyst**  
-
+- **École d’ingénieur informatique** (Bac+3)  
+- **PREPA Maths-Physique** (Bac+2)  
 ---
 
 ## Contact
