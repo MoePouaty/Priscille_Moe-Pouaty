@@ -1,6 +1,6 @@
 <div style="display:flex; align-items:center; gap:20px;">
 
-  <img src="/img/Photocvperfect.jpg" alt="photo de profil" width="120" style="border-radius:10px;">
+  <img src="img/Photocvperfect.jpg" alt="photo de profil" width="120" style="border-radius:10px;">
 
   <p style="margin:0;">
     <strong>Bienvenue sur mon portfolio GitHub.</strong><br>
