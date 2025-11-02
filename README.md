@@ -61,8 +61,10 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 
 ## Expériences professionnelles
 
-### Stage
-- Structuration et enrichissement des bases de données  
+### Stage (6 mois)
+2025
+- Structuration et enrichissement des bases de données
+- Création de table de données SQL
 - Mise en place de pipeline ETL simple  
 - Suivi de la performance (marketing/produit/finance)  
 - Data storytelling & restitution aux équipes métiers  
@@ -71,26 +73,46 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - Standardisation & documentation des procédures data  
 - Participation à projets data & BI
 
-### Stage
+### Stage (2 mois)
+2024
 - Collecte, nettoyage et préparation des données  
 - Analyse exploratoire (EDA)  
-- Extraction de données via SQL et automatisation des requêtes  
+- Extraction de données via SQL
 - Construction & suivi de KPIs  
 - Mise en place de dashboards Power BI / Excel  
-- Automatisation de reporting (SQL / Excel / Python)  
+- Reporting (SQL / Excel / Python)  
 - Data quality & contrôle des sources de données  
 - Documentation des process data
 
 ---
 
-## Formation
+  <section>
+  <h2>Parcours et formations</h2>
 
-- **POEC Data Analyst**
-- **Master Analyse de données** (Bac+5)  
-- **École d’ingénieur informatique** (Bac+3)
-- **PREPA Maths-Physique** (Bac+2)
+  <p>
+    <strong>POEC Data Analyst — M2i (Full Remote)</strong><br>
+    Avr 2024 – Août 2024<br>
+    Formation professionnelle intensive en Data Analysis
+  </p>
 
-  
+  <p>
+    <strong>Master Analyse de données (Bac+5) — DC Paris</strong><br>
+    2021 – 2023
+  </p>
+
+  <p>
+    <strong>École d’ingénieur informatique (Bac+3) — CESI Nanterre</strong><br>
+    2020 – 2021
+  </p>
+
+  <p>
+    <strong>PREPA Maths-Physique (Bac+2) — Lycée Pothier, Orléans</strong><br>
+    2017 – 2019
+  </p>
+</section>
+
+
+
 ---
 
 ## Contact
