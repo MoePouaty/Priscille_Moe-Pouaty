@@ -22,6 +22,7 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 
 ## Projets / Réalisations
 
+- [Migration des données de Windev vers l’ERP Axelor](https://moepouaty.github.io/ERP-migration-Windev-to-Axelor/)
 - [Détection de fraude sur transactions bancaires](https://moepouaty.github.io/Fraude-transactions-bancaires/)
 
 ---
